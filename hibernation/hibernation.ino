@@ -12,9 +12,9 @@
 #define TIME_TO_SLEEP  10        /* Time ESP32 will go to sleep (in seconds) */
 #define WIFISSID "......"
 #define PASSWORD "haha1112"
-#define ACCESSKEY "de034ebfd9eae988:16ae3f9e7d0b494d"
-#define projectName "XYMD02-ESP32"
-#define deviceName "deepSleepMode"
+#define ACCESSKEY ""
+#define projectName ""
+#define deviceName ""
 
 RTC_DATA_ATTR int bootCount = 0;
 
